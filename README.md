@@ -4,6 +4,14 @@
 Have you wanted to make it so your chat history or any other kind of paragraphed text files could easily be turned into Skript format? 
 Well this is the solution for you!
 
+## Downloads
+
+**Windows:**
+**[Download here!](https://github.com/leifadev/text-to-skript/releases)**
+
+**MacOS/Linux**
+Not supported yet!
+
 ## Example
 
 ```
@@ -30,6 +38,7 @@ message "Lol12345 left the game"
 message ""
 message "Set difficulty to cracked mode"
 ```
+
 
 Simple but profound.
 Try it out now.
